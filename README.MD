@@ -10,7 +10,7 @@ Our findings highlight the gap between the generation and classification capabil
 The model is available [here](https://drive.google.com/file/d/1JwVkjEl_8SFYqsSEfPlIJHehRgR2IyO6/view?usp=sharing).
 
 ## Demo
-![Alt text](../job ad.gif)
+![Alt text](https://github.com/Shahadbal/BiasDetectorLLM/blob/main/job%20ad.gif)
 ### Installation and Running the Demo
 
 1. **Install Requirements**
